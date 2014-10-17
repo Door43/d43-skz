@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[skz:home|Door43 (skz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-skz|d43-skz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-skz/archive/master.zip|d43-skz.zip]]
+
+**Recent Changes**
+{{changes>ns = skz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/skz|Ethnologue data]]
+
